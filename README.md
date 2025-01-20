@@ -18,7 +18,7 @@ First, clone the repository to your local machine using `git`:
 
 ```bash
 git clone git@github.com:programmer-blog/laravel-order-management-api.git
-cd smindle-order-api
+cd laravel-order-management-api
 ```
 
 ### 2. Docker Setup
