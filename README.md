@@ -8,8 +8,6 @@ A Laravel-based API for managing orders and order items, including handling subs
 - **Docker Compose**: To manage multi-container Docker applications.
 - **Git**: To clone the repository.
 
-(Optional: If you’re running Laravel outside of Docker, ensure you have **PHP 8.2+** and **MySQL** installed.)
-
 ---
 
 ## Setup Instructions
