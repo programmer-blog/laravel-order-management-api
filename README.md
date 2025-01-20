@@ -17,7 +17,7 @@ A Laravel-based API for managing orders and order items, including handling subs
 First, clone the repository to your local machine using `git`:
 
 ```bash
-git clone https://github.com/yourusername/smindle-order-api.git
+git clone git@github.com:programmer-blog/laravel-order-management-api.git
 cd smindle-order-api
 ```
 
